@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "443597979523",
+    "project_id": "coursemate-jetpack",
+    "storage_bucket": "coursemate-jetpack.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443597979523:android:46d92840270e5bc4e5c0b6",
+        "android_client_info": {
+          "package_name": "com.msanwr.coursemate.jetpack.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443597979523-or4stl875juf9n14a98ja8qiprh2v9mv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.msanwr.coursemate.jetpack.dev",
+            "certificate_hash": "93e142ca013283f416e817082543d1833c54bf20"
+          }
+        },
+        {
+          "client_id": "443597979523-q754e81jul55evupa6gfc8qt9gq94k5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "google_api_key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443597979523-q754e81jul55evupa6gfc8qt9gq94k5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
